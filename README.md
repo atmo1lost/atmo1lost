@@ -1,10 +1,10 @@
 # atmo1lost
 
-frontend engineer building for the web.
+frontend engineer building for myself.
 
 ## what i do
 
-i build fast, simple websites and web apps with clean code.
+i make shit projects i give up on after a week
 
 ## projects
 
@@ -15,6 +15,8 @@ i build fast, simple websites and web apps with clean code.
 
 - github — https://github.com/atmo1lost
 - tiktok — https://tiktok.com/@syntaxparty
+- telegram — https://t.me/xlmptt
+- discord — @ts7g
 
 ---
 
