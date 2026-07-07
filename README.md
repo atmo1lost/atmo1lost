@@ -1,10 +1,11 @@
 # atmo1lost
 
 frontend engineer building for myself.
+bi :3
 
 ## what i do
 
-i make shit projects i give up on after a week
+i make projects in my free time
 
 ## projects
 
