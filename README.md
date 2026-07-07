@@ -13,7 +13,7 @@ i make shit projects i give up on after a week
 
 ## presence
 
-- github — https://github.com/atmo1lost
+- github — your right here
 - tiktok — https://tiktok.com/@syntaxparty
 - telegram — https://t.me/xlmptt
 - discord — @ts7g
