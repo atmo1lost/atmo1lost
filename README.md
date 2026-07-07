@@ -10,7 +10,7 @@ i make projects in my free time
 ## projects
 
 - [mochii](https://github.com/atmo1lost/mochii) — proxy + ubg site
-- [lumx](https://github.com/atmo1losr/lumx) — coming soon
+- [lumx](https://github.com/atmo1lost/lumx) — coming soon
 
 ## presence
 
