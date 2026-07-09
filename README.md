@@ -1,7 +1,6 @@
 # atmo1lost
 
 frontend engineer building for myself.
-bi :3
 
 ## what i do
 
