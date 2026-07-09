@@ -15,7 +15,7 @@ i make projects in my free time
 
 - github — your right here
 - tiktok — https://tiktok.com/@syntaxparty
-- telegram — https://t.me/xlmptt
+- telegram (do not dm me vulnerabilitys here.) — https://t.me/xlmptt
 - discord — @ts7g
 
 ---
