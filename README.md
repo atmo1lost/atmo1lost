@@ -1,6 +1,6 @@
 # atmo1lost
 
-frontend engineer building for myself.
+![Profile views](https://views.igorkowalczyk.dev/api/badge/atmo1lost?style=flat) <br> frontend engineer building for myself.
 
 ## what i do
 
