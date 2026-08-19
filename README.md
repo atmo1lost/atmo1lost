@@ -1,6 +1,6 @@
 # atmo1lost
 
-![Profile views](https://views.igorkowalczyk.dev/api/badge/atmo1lost?style=flat) <br> frontend engineer building for myself.
+![Profile views](https://views.igorkowalczyk.dev/api/badge/atmo1lost?style=flat) <br> i just be making shit
 
 ## what i do
 
@@ -17,9 +17,6 @@ i make projects in my free time
 
 - github — your right here
 - tiktok — https://tiktok.com/@syntaxparty
-- telegram (do not dm me vulnerabilitys here.) — https://t.me/xlmptt
 - discord — @ts7g
 
----
 
-building things i enjoy.
