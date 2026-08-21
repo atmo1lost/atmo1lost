@@ -11,7 +11,6 @@ i make projects in my free time
 - [mochii](https://github.com/atmo1lost/mochii) — proxy + ubg site
 - [lumx](https://github.com/atmo1lost/lumx) — e2ee chatting
 - [vane](https://github.com/atmo1lost/vane) - osint/other multi tool
-- [soryn](https://github.com/atmo1lost/soryn) - cfw for PSPs (fork of ARK-5 | C)
 
 ## presence
 
