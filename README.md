@@ -1,10 +1,10 @@
-# atmo1lost
+# hey! im atmoss
 
 ![Profile views](https://views.igorkowalczyk.dev/api/badge/atmo1lost?style=flat) <br> i just be making shit
 
 ## what i do
 
-i make projects in my free time
+i make web / (rarely) python projects in my free time
 
 ## projects
 
